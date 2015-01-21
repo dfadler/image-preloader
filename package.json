@@ -6,8 +6,8 @@
   "scripts": {},
   "devDependencies": {
     "browserify": "^8.1.1",
+    "es6ify": "^1.6.0",
     "gulp": "^3.8.10",
-    "gulp-livereload": "^3.4.0",
     "gulp-traceur": "^0.15.0",
     "istanbul": "^0.3.5",
     "jasmine-core": "^2.1.3",
@@ -20,10 +20,10 @@
     "karma-requirejs": "^0.2.2",
     "karma-safari-launcher": "^0.1.1",
     "karma-traceur-preprocessor": "^0.4.0",
-    "live-reload": "^0.2.0",
     "promise": "^6.1.0",
     "requirejs": "^2.1.15",
-    "traceur": "0.0.81"
+    "traceur": "0.0.81",
+    "vinyl-source-stream": "^1.0.0"
   },
   "author": "",
   "license": "MIT",

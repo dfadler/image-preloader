@@ -1,6 +1,4 @@
 
-'use strict';
-
 var loadImage = function(src) {
 	
 	return new Promise(function(res, rej) {
